@@ -1,4 +1,8 @@
 
+## The Need
+
+COVID-19 has caused many issues due to its extremely infectious nature. Around 20 % of the persons infected are faced with respiratory problems and need to be hospitalized. Due to its rapid spread more and more people are getting infected daily and this causes heavy strain on the healthcare systems. This has led to a higher demand for ventilators which has resulted in a shortage. 
+
 ## Objective
 
 - Design the ventilator with easily sourced/manufactured or off-the-shelf components.
